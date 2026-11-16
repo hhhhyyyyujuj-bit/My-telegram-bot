@@ -18,7 +18,7 @@ from telegram.ext import (
 )
 
 # ======================== الإعدادات ========================
-BOT_TOKEN = "9227756385:AAHv1SGUvKugNEkt53Zw71_FAJm7XwOSNJQ"
+BOT_TOKEN = "9227756385:AAH9tQ48OyrqSZuPocIINqzCLCg-mxXiAWY"
 ADMIN_ID = 8150202704
 FORCE_CHANNEL = "@atlaseeq"
 FORCE_CHANNEL_LINK = "https://t.me/atlaseeq"
