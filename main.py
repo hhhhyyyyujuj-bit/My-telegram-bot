@@ -44,7 +44,7 @@ from telegram.ext import (
 
 # Paste your test bot token between the quotes below.
 # Keep this file private and never publish it with a real token.
-BOT_TOKEN = "9258183648:AAF7LF5kG7gIjb0BbuECkf-sK1LaqjvjbRY"
+BOT_TOKEN = "9258183648:AAFWR2vUE-QO4jkof_t4dG0dCvnaPb15pug"
 ADMIN_ID = 8150202704
 DEVELOPER_USERNAME = "nhnhhnhn"
 
